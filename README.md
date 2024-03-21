@@ -9,3 +9,5 @@ In doing this, we had to aggregate and clean all data from each of the networks,
 
 One of the 700+ networks is included as an example, but the full data can be obtained from the link below.
 Data from https://snap.stanford.edu/data/as-733.html
+
+<img width="820" alt="Screenshot 2024-03-21 at 4 07 48 PM" src="https://github.com/cw883/Network-Structure-Research/assets/139663188/58c93b46-ef75-4e1e-8b43-d46d8b8d4fc5">
